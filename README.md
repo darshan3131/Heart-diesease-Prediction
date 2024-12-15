@@ -12,9 +12,13 @@ Table of Contents
 	7.	Visualization
 	8.	Contributing
 
+
+ 
+ 
  Project Overview
 
 Heart disease is one of the leading causes of death worldwide. Early detection can significantly improve treatment outcomes.
+
 This project uses a supervised machine learning model (Logistic Regression) to predict the presence of heart disease based on medical parameters.
 
 
