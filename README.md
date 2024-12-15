@@ -2,18 +2,8 @@
 
 This project focuses on predicting the presence of heart disease using machine learning techniques. The dataset includes various health-related attributes like age, cholesterol, blood pressure, and more. A logistic regression model is trained and evaluated to determine the likelihood of heart disease in individuals.
 
-Table of Contents
-	1.	Project Overview
-	2.	Dataset Description
-	3.	Technologies Used
-	4.	Project Workflow
-	5.	How to Run the Project
-	6.	Results and Insights
-	7.	Visualization
-	8.	Contributing
 
 
- 
  
  Project Overview
 
